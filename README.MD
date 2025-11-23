@@ -1,6 +1,6 @@
 # Отчет по проекту: Интеллектуальная система компьютерного зрения для анализа заполненности аудиторий
 
-![42_ensemble.jpg](ensemble_results/2_ensemble.jpg)
+![42_ensemble.jpg](ensemble_results/42_ensemble.jpg)
 
 ## Описание проекта
 
